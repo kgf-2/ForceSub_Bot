@@ -10,7 +10,7 @@
         "Forcesub",
         "ForceSubBot"
     ],
-    "repository": "https://github.com/shrvan42/ForceSub_Bot",
+    "repository": "https://github.com/kgf-2/ForceSub_Bot",
     "success_url": "https://t.me/TgxBotz_Update",
     "env": {
         "API_HASH": {
